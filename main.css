@@ -1,0 +1,26 @@
+body{	
+	text-align:center;
+	background-image: url("gat.jpg"); 
+}
+h1{
+	color:#291A1D;
+	font-size:50px;
+	text-decoration: underline;
+}
+.box {
+	display:inline-block;
+	}
+
+.boton{
+	background-color:#F588B4;
+	width:90px;
+	height:90px;
+	margin:15px;
+	border:1px solid #55111F;
+
+
+}
+a{
+	color:#660C30;
+	font-size:30px;
+}
