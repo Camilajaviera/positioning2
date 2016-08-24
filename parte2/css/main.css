@@ -1,0 +1,25 @@
+body{
+	margin:0px;
+	padding:0px;
+}
+.contenedor{
+	background-color:#034DF9;
+	position:;
+	width:500px;
+	height:500px;
+}
+
+.verde{
+	background-color:#05660A;
+	width:250px;
+	height:250px;
+	position:absolute;
+	left:125px;
+	top:125px;
+
+}
+.negro{
+	background-color:#000700;
+	width:125px;
+	height:125px;
+}
