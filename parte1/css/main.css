@@ -1,0 +1,21 @@
+.contenedor{
+	background-color:#F05236;
+	position:;
+	width:500px;
+	height:500px;
+}
+
+.violeta{
+	background-color:#99138E;
+	width:250px;
+	height:250px;
+	position:absolute;
+	left:125px;
+	top:125px;
+
+}
+.amarillo{
+	background-color:#E0F806;
+	width:125px;
+	height:125px;
+}
